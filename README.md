@@ -1,2 +1,2 @@
-# ISM6136-DSP
+# ISM6251-DSP
 Data Science Programming
